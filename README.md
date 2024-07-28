@@ -5,7 +5,7 @@
 **Team:Bømbåstïç S¡dë £¥€**
 
 ![image](https://github.com/user-attachments/assets/92abb8ae-5ee6-462b-ad67-14470dc4f945)
-##Table of content
+###Table of content
 
 
 
@@ -15,9 +15,8 @@
 
 
 
-
-##Forensic
-
+---
+####Forensic
 **LOCK**<br>
 
 ![image](https://github.com/user-attachments/assets/d06146bc-e439-4bd0-9259-1fa1adf1515e)
