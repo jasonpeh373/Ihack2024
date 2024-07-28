@@ -71,7 +71,7 @@
 ![image](https://github.com/user-attachments/assets/51b36278-80f5-4d1e-8dc2-9bfd5ec32fb5)
 
 ---
-## Splunk-3 <br>
+## Splunk-3<br>
 
 ![image](https://github.com/user-attachments/assets/788bee36-a3eb-4c76-b530-69e99737fe9c)
 
@@ -85,7 +85,7 @@
 ![image](https://github.com/user-attachments/assets/c4e41878-891c-4e79-8ae0-74d3a4b98ac9)
 
 ---
-## Splunk-4 <br>
+## Splunk-4<br>
 ![image](https://github.com/user-attachments/assets/26bfefb4-a44c-46cd-8844-c002dae734e8)
 
 1.i check in command line 
@@ -98,7 +98,7 @@
 ![image](https://github.com/user-attachments/assets/748c914d-a63d-4ac0-894b-44ea6df9fbd5)
 
 ---
-## Splunk-5 <br>
+## Splunk-5<br>
 
 ![image](https://github.com/user-attachments/assets/e61d71ac-4969-428d-b7c3-c298f21113ad)
 
@@ -109,7 +109,7 @@
 ![image](https://github.com/user-attachments/assets/6cabc412-8021-4037-9d0a-36ce7e4de27a)
 
 ---
-## Splunk-6 <br>
+## Splunk-6<br>
 ![image](https://github.com/user-attachments/assets/386395de-bee2-448f-8101-b95ff59bb3ca)
 
 1.when i try to find the splunk-8 i saw there have some ip in the payload
@@ -139,7 +139,7 @@
 ![image](https://github.com/user-attachments/assets/bd07caa6-db76-407b-8f14-a3e28ce70be5)<br>
 
 ---
-## Splunk-9 <br>
+## Splunk-9<br>
 
 ![image](https://github.com/user-attachments/assets/119fe70a-5157-4e24-8605-7589f1a5f8b1)<br>
 1.i filter by eventcode "4720"  and i saw a new user created :operator.<br>
