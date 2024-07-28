@@ -21,9 +21,14 @@
   - [Splunk-7](#splunk-7)
   - [Splunk-8](#splunk-8)
   - [Splunk-9](#splunk-9)
-  - [Splunk-10](#splunk-10)
--[Incident_Handling_Challenge](#IncidentHandlingChallenge)
-
+  - [Splunk-10](#splunk-10)<br>
+    
+- [Incident_Handling_Challenge](#Incident_Handling_Challenge)
+  - [SSH_Compromised](#SSH_Compromised)
+- [Malware](#Malware)
+  - [Just_a_normal_EXE](#Just_a_normal_EXE)
+- [RE](#RE)
+  - [CrackMe](#CrackMe)
 ---
 
 # Forensic
@@ -185,10 +190,10 @@
 
 ---
 
-# Incident Handling Challenge<br>
+# Incident_Handling_Challenge<br>
 ___
 
-## SSH Compromised<br>
+## SSH_Compromised<br>
 ![image](https://github.com/user-attachments/assets/dcd6ceaa-6734-4eba-a93e-e27fbe66a586)<br>
 
 1. i open the file in noteped and i saw the user sysadmin like try login using the failed password.<br>
@@ -200,7 +205,7 @@ ___
 
 # Malware<br>
 ---
-## Just a normal EXE<br>
+## Just_a_normal_EXE<br>
 
 ![image](https://github.com/user-attachments/assets/2afd2267-8f2b-46df-ba9e-cbf8ec450b6c)<br>
 1. after download that file ,i extract that file.<br>
