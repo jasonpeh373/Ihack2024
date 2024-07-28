@@ -20,7 +20,7 @@
   - [Splunk-7](#splunk-7)
   - [Splunk-8](#splunk-8)
   - [Splunk-9](#splunk-9)
-  - [Splunk-10](#splunk-20)
+  - [Splunk-10](#splunk-10)
 
 
 
