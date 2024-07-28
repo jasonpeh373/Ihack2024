@@ -1,4 +1,4 @@
-# iHack2024
+![image](https://github.com/user-attachments/assets/183a4a95-6e02-4e6e-bc0c-c6c9c3ecb85a)# iHack2024
 
 ## Overview
 
@@ -196,7 +196,7 @@ ___
 ## SSH_Compromised<br>
 ![image](https://github.com/user-attachments/assets/dcd6ceaa-6734-4eba-a93e-e27fbe66a586)<br>
 
-1. i open the file in noteped and i saw the user sysadmin like try login using the failed password.<br>
+1. I opened the file in Notepad and saw that the user sysadmin was trying to log in with a failed password.<br>
    ![image](https://github.com/user-attachments/assets/a29a4527-08d0-4dba-adf9-f4ea38d90167)
 2. so i get the flag.
    ![image](https://github.com/user-attachments/assets/5539de6e-d679-4818-bb72-e66272f311ef)
@@ -208,16 +208,17 @@ ___
 ## Just_a_normal_EXE<br>
 
 ![image](https://github.com/user-attachments/assets/2afd2267-8f2b-46df-ba9e-cbf8ec450b6c)<br>
-1. after download that file ,i extract that file.<br>
+1. After downloading that file, I extracted it.<br>
 ![image](https://github.com/user-attachments/assets/64304c21-427d-4b6b-af8a-299f1b05c887)<br>
 
-2. i check the strings in the file.tar and i found something.<br>
+2. I checked the strings in the file.tar and found something.<br>
 ![image](https://github.com/user-attachments/assets/2b8f85d9-a456-4fc8-976a-5d9042c94e86)<br>
 
-3.i try to decode it ,and i got the website link<br>
+3.I tried to decode it, and I got a website link link<br>
+![image](https://github.com/user-attachments/assets/3454aa77-2829-4617-9237-663710db5370)<br>
 ![image](https://github.com/user-attachments/assets/655ba6ee-6521-4b6d-af56-594798c49055)<br>
 
-4.i go to website and i get the flag.<br>
+4.I went to the website and got the flag.<br>
 ![image](https://github.com/user-attachments/assets/999a5d19-816d-40df-a622-24b05bd9c7b5)<br>
 
 ---
