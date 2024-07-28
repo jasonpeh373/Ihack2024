@@ -146,7 +146,7 @@
 
 ![image](https://github.com/user-attachments/assets/1d7aff81-cc5e-4166-bd71-adadcf18ca86)
 
-1.i filter by reg.exe
+1.i filter by reg.exe<br>
 ![image](https://github.com/user-attachments/assets/e68afe42-6f39-442e-a2f1-092e0345cfba)
 
 2.i saw some command in the event and i saw the backdoor ip so i guess that commandline is the flag <br>
