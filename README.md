@@ -9,7 +9,7 @@
 ---
 ### Table of content
 
-- [Forensic](#forensic)
+- [Forensic](#Forensic)
   - [Lock](#lock)
   - [Splunk-1](#splunk-1)
   - [Splunk-2](#splunk-2)
