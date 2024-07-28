@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/183a4a95-6e02-4e6e-bc0c-c6c9c3ecb85a)# iHack2024
+# iHack2024
 
 ## Overview
 
