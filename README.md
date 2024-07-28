@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5fbc31ab-b416-41b3-8e1a-b9e2ed54551f)# iHack2024
+# iHack2024
 
 ## Overview
 
@@ -22,6 +22,7 @@
   - [Splunk-8](#splunk-8)
   - [Splunk-9](#splunk-9)
   - [Splunk-10](#splunk-10)
+-[Incident_Handling_Challenge](#IncidentHandlingChallenge)
 
 ---
 
@@ -221,12 +222,12 @@ ___
 
 # CrackMe<br>
 
-![image](https://github.com/user-attachments/assets/1bc64976-feaf-4279-936e-1dd07f7836f0)
+![image](https://github.com/user-attachments/assets/1bc64976-feaf-4279-936e-1dd07f7836f0)<br>
 
-1.Unzip the file 
+1.Unzip the file <br>
 <img width="78" alt="image" src="https://github.com/user-attachments/assets/0e1e71bd-3c2e-49b8-871e-69d4983363c6"><br>
 
-2.Then you can ﬁnd the dll ﬁle then use dnspy to run the dll ﬁle
+2.Then you can ﬁnd the dll ﬁle then use dnspy to run the dll ﬁle<br>
 <img width="436" alt="image" src="https://github.com/user-attachments/assets/53fe2aba-5143-42be-baab-6c8d1d509887"><br>
 
 3.Then go to form 1 @020000002 then you can ﬁnd the hint for the ﬂag “  this.lblMessage.Te x t = "License Key is valid. Flag is ihack24{(the license key)}";” <br>
