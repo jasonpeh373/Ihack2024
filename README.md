@@ -203,13 +203,56 @@ ___
 
 ![image](https://github.com/user-attachments/assets/2afd2267-8f2b-46df-ba9e-cbf8ec450b6c)<br>
 1. after download that file ,i extract that file.<br>
-![image](https://github.com/user-attachments/assets/64304c21-427d-4b6b-af8a-299f1b05c887)
+![image](https://github.com/user-attachments/assets/64304c21-427d-4b6b-af8a-299f1b05c887)<br>
 
 2. i check the strings in the file.tar and i found something.<br>
-![image](https://github.com/user-attachments/assets/2b8f85d9-a456-4fc8-976a-5d9042c94e86)
+![image](https://github.com/user-attachments/assets/2b8f85d9-a456-4fc8-976a-5d9042c94e86)<br>
 
 3.i try to decode it ,and i got the website link<br>
-![image](https://github.com/user-attachments/assets/4c28e00d-1381-44be-a1db-884f86a44fd8)
+![image](https://github.com/user-attachments/assets/655ba6ee-6521-4b6d-af56-594798c49055)<br>
+
+4.i go to website and i get the flag.<br>
+![image](https://github.com/user-attachments/assets/999a5d19-816d-40df-a622-24b05bd9c7b5)<br>
+
+---
+
+#RE<br>
+---
+
+# CrackMe<br>
+
+![image](https://github.com/user-attachments/assets/1bc64976-feaf-4279-936e-1dd07f7836f0)
+
+1.Unzip the file 
+<img width="78" alt="image" src="https://github.com/user-attachments/assets/0e1e71bd-3c2e-49b8-871e-69d4983363c6"><br>
+
+2.Then you can ﬁnd the dll ﬁle then use dnspy to run the dll ﬁle
+<img width="436" alt="image" src="https://github.com/user-attachments/assets/53fe2aba-5143-42be-baab-6c8d1d509887"><br>
+
+3.Then go to form 1 @020000002 then you can ﬁnd the hint for the ﬂag “  this.lblMessage.Te x t = "License Key is valid. Flag is ihack24{(the license key)}";” <br>
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/4f1ad19f-e861-46de-8eec-cf167de34f08"><br>
+
+4.The SecretKey function is used in the given C# code to produce the licensing key. This technique uses an XOR operation between the characters of a key string ("secret") and a hidden string ("BRQFHF@WR_+6,N:$78") to get the correct licensing key.<br>
+<img width="739" alt="image" src="https://github.com/user-attachments/assets/2e3e4792-c042-44d7-88f5-40578932182c"><br>
+
+5.So just create a small Python script that mimics the SecretKey method from the C# code.<br>
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/e6c835b2-cb80-4528-871d-250e293b1efc"><br>
+
+6.To make sure this is the correct ﬂag just copy the license key and paste at “crackme.exe”<br>
+<img width="401" alt="image" src="https://github.com/user-attachments/assets/1de30192-1926-4fe9-9b79-14b9021f52d2"><br>
+
+7.That is the flag.<br>
+![image](https://github.com/user-attachments/assets/0e1aec56-3ba9-4d9a-880a-08da9932544b)
+
+---
+
+
+
+
+
+
+
+
 
 
  
