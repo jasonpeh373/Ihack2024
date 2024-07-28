@@ -1,4 +1,4 @@
-# iHack2024
+![image](https://github.com/user-attachments/assets/5fbc31ab-b416-41b3-8e1a-b9e2ed54551f)# iHack2024
 
 ## Overview
 
@@ -190,7 +190,29 @@ ___
 ## SSH Compromised<br>
 ![image](https://github.com/user-attachments/assets/dcd6ceaa-6734-4eba-a93e-e27fbe66a586)<br>
 
-1. i open the file 
+1. i open the file in noteped and i saw the user sysadmin like try login using the failed password.<br>
+   ![image](https://github.com/user-attachments/assets/a29a4527-08d0-4dba-adf9-f4ea38d90167)
+2. so i get the flag.
+   ![image](https://github.com/user-attachments/assets/5539de6e-d679-4818-bb72-e66272f311ef)
+
+----
+
+# Malware<br>
+---
+## Just a normal EXE<br>
+
+![image](https://github.com/user-attachments/assets/2afd2267-8f2b-46df-ba9e-cbf8ec450b6c)<br>
+1. after download that file ,i extract that file.<br>
+![image](https://github.com/user-attachments/assets/64304c21-427d-4b6b-af8a-299f1b05c887)
+
+2. i check the strings in the file.tar and i found something.<br>
+![image](https://github.com/user-attachments/assets/2b8f85d9-a456-4fc8-976a-5d9042c94e86)
+
+3.i try to decode it ,and i got the website link<br>
+![image](https://github.com/user-attachments/assets/4c28e00d-1381-44be-a1db-884f86a44fd8)
+
+
+ 
 
 
 
