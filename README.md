@@ -172,7 +172,8 @@
 ![image](https://github.com/user-attachments/assets/1d7aff81-cc5e-4166-bd71-adadcf18ca86)<br>
 
 1. I filtered by `reg.exe`.<br>
-![image](https://github.com/user-attachments/assets/e68afe42-6f39-442e-a2f1-092e0345cfba)<br>
+![image](https://github.com/user-attachments/assets/8319ca85-dd61-4049-9036-1223963e850d)
+<br>
 
 2. I saw some commands in the event and found the backdoor IP, so I guessed the command line is the flag.<br>
 ![image](https://github.com/user-attachments/assets/c69216f1-405b-4a5d-a646-0c43a03a1fcc)<br>
