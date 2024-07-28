@@ -198,7 +198,7 @@ ___
 
 1. I opened the file in Notepad and saw that the user sysadmin was trying to log in with a failed password.<br>
    ![image](https://github.com/user-attachments/assets/a29a4527-08d0-4dba-adf9-f4ea38d90167)
-2. so i get the flag.
+2. so i get the flag.<br>
    ![image](https://github.com/user-attachments/assets/5539de6e-d679-4818-bb72-e66272f311ef)
 
 ----
@@ -236,10 +236,10 @@ ___
 2.Then you can ﬁnd the dll ﬁle then use dnspy to run the dll ﬁle<br>
 <img width="436" alt="image" src="https://github.com/user-attachments/assets/53fe2aba-5143-42be-baab-6c8d1d509887"><br>
 
-3.Then go to form 1 @020000002 then you can ﬁnd the hint for the ﬂag “  this.lblMessage.Te x t = "License Key is valid. Flag is ihack24{(the license key)}";” <br>
+3.Then go to form 1 @020000002 then you can ﬁnd the hint for the ﬂag `“  this.lblMessage.Te x t = "License Key is valid. Flag is ihack24{(the license key)}";”` <br>
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/4f1ad19f-e861-46de-8eec-cf167de34f08"><br>
 
-4.The SecretKey function is used in the given C# code to produce the licensing key. This technique uses an XOR operation between the characters of a key string ("secret") and a hidden string ("BRQFHF@WR_+6,N:$78") to get the correct licensing key.<br>
+4.The SecretKey function is used in the given C# code to produce the licensing key. This technique uses an XOR operation between the characters of a key string ("secret") and a hidden string `("BRQFHF@WR_+6,N:$78")` to get the correct licensing key.<br>
 <img width="739" alt="image" src="https://github.com/user-attachments/assets/2e3e4792-c042-44d7-88f5-40578932182c"><br>
 
 5.So just create a small Python script that mimics the SecretKey method from the C# code.<br>
