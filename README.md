@@ -9,7 +9,11 @@
 ---
 ### Table of content
 
-
+- [Forensic](#forensic)
+  - [Lock](#lock)
+  - [Splunk-1](#splunk-1)
+  - [Splunk-2](#splunk-2)
+  - [Splunk-3](#splunk-3)
 
 
 
@@ -19,7 +23,8 @@
 
 ---
 # Forensic <br>
-**LOCK**<br>
+---
+## LOCK<br>
 
 ![image](https://github.com/user-attachments/assets/d06146bc-e439-4bd0-9259-1fa1adf1515e)
 
@@ -39,7 +44,7 @@
 ![image](https://github.com/user-attachments/assets/623108f6-6f20-40a5-b785-450fc034db22)
 
 ---
-**Splunk-1**<br>
+## Splunk-1<br>
 
 ![image](https://github.com/user-attachments/assets/8c25d35c-aec6-4eff-988a-15e9f3e1cef6)
 
